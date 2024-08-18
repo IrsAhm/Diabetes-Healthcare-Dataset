@@ -1,6 +1,7 @@
 # Diabetes-Healthcare-Dataset
 Diabetes Prediction Dataset, a valuable resource for researchers, data scientists, and medical professionals interested in the field of diabetes risk assessment and prediction.
-Columns:
+
+#Columns:
 Id: Unique identifier for each entry.
 Pregnancies: Number of pregnancies experienced.
 Glucose: Plasma glucose concentration after a 2-hour oral glucose tolerance test.
